@@ -1,7 +1,7 @@
 create .env file 
 and included
-AI_SERVICE_ENDPOINT=your_azure_ai_services_endpoint
-AI_SERVICE_KEY=your_azure_ai_services_key
+- AI_SERVICE_ENDPOINT=your_azure_ai_services_endpoint
+- AI_SERVICE_KEY=your_azure_ai_services_key
 
 Análise de texto 
 ----
@@ -20,17 +20,17 @@ Extract text
 
 read-text-py - extract text into a image
 
-Question Answering 
+Question Answering (qna-app.py)
 ------
 install
 
 pip install azure-ai-language-questionanswering
 
 including .env
-AI_SERVICE_ENDPOINT
-AI_SERVICE_KEY
-QA_PROJECT_NAME
-QA_DEPLOYMENT_NAME
+- AI_SERVICE_ENDPOINT
+- AI_SERVICE_KEY
+- QA_PROJECT_NAME
+- QA_DEPLOYMENT_NAME
 
 
 
