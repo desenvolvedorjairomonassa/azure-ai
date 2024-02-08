@@ -8,5 +8,7 @@ install
 - pip install pandas
 - pip3 install azure-storage-blob azure-identity
 - pip install azure-identity
+- pip install requests
+- pip install pillow 
 
 or create requirements.txt
