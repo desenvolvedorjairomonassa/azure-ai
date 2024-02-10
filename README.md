@@ -37,3 +37,13 @@ Boot
 install:
 -pip install azure-ai-language-conversations
 
+speech
+------
+install:
+- pip install azure-cognitiveservices-speech==1.30.0
+
+environment to set
+-SPEECH_KEY
+-SPEECH_REGION
+
+speaking-clock.py
