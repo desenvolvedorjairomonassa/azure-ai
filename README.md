@@ -32,5 +32,8 @@ including .env
 - QA_PROJECT_NAME
 - QA_DEPLOYMENT_NAME
 
-
+Boot
+---
+install:
+-pip install azure-ai-language-conversations
 
