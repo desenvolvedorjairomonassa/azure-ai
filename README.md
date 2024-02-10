@@ -37,10 +37,11 @@ Boot
 install:
 -pip install azure-ai-language-conversations
 
-speech
+speech speech-to-text , text-to-speech
 ------
 install:
 - pip install azure-cognitiveservices-speech==1.30.0
+- pip install playsound==1.3.0
 
 environment to set
 -SPEECH_KEY
