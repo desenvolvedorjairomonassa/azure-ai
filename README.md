@@ -32,7 +32,7 @@ including .env
 - QA_PROJECT_NAME
 - QA_DEPLOYMENT_NAME
 
-Boot
+conversional language model  - clock-client.py
 ---
 install:
 -pip install azure-ai-language-conversations
