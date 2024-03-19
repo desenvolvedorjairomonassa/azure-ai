@@ -20,6 +20,8 @@ Extract text
 
 read-text-py - extract text into a image
 
+install pip install azure-ai-vision-imageanalysis==1.0.0b1
+
 Question Answering (qna-app.py)
 ------
 install
